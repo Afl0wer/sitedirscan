@@ -11,7 +11,7 @@
 
 ***
 ##  ✨Help menu:
-![Help_Menu](https://xx "Help Menu")  
+![Help_Menu](https://github.com/Afl0wer/sitedirscan/blob/main/help_menu.gif "Help Menu")  
 ## 🚀Usage:
 - 指定要进行目录扫描的web地址，加载默认字典并以默认线程数(3)开始扫描：  
   
@@ -29,4 +29,4 @@
   
   `directory_dectect.py --url http://www.xxx.com/ -t 5`
 ## ⚡️Example：
-![example_image](https://xx "example image")  
+![example_image](https://github.com/Afl0wer/sitedirscan/blob/main/example_image.png "example image")  
