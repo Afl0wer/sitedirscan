@@ -21,7 +21,7 @@ FILE_SUFFIX = [".jpg",".gif",".png",".css",".js"]
 web_paths = queue.Queue()
 path = ''
 headers = {
-	'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+	'User-Agent':'Mozilla/5.2 (Windows NT 11.0; Win64; x64) AppleWebKit/538.29 (KHTML, like Gecko) Chrome/100.1.3.4 Safari/526.33',
 }
 
 def collect_paths():
